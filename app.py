@@ -1,3 +1,4 @@
+# I have some doubbts on this concept 
 import time
 
 import redis
