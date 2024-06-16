@@ -13,3 +13,5 @@ Make sure you have:
    Now working on the branch scenario
 
 		https://github.com/crkv1609/DockerComposeProject.git
+
+TOday working on dev stage 2
